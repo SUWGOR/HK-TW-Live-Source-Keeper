@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 group-title="香港电视",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
