@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 group-title="香港电视",RTHK TV 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 tvg-name="TVB 新闻台" group-title="香港新闻及资讯",TVB 新闻台
+https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=139.162.59.143~st=1784185094~exp=1786777094~acl=/__cl/slocalr2526/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=851d41095a88bf7347a24bcc02e15dc23f33987cb18d77e7e85624f5c7be0d04&p=3324&mode=admarker,ticks
